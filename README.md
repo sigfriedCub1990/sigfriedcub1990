@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://api.githubtrends.io/user/svg/sigfriedCub1990/langs?time_range=one_year&compact=True&theme=classic
+![image](https://api.githubtrends.io/user/svg/sigfriedCub1990/langs?time_range=one_year&compact=True&theme=classic)
